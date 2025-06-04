@@ -1,0 +1,2 @@
+# Unity_UI_MVC_EventCenter_Singleton
+Unity运用MVC思想+事件中心的UI
